@@ -5,9 +5,10 @@ Here we use the full-Stokes code Underworld to simulate ice movements in three-d
 Model 1: isotropic ice, free-slip basal boundary
 Model 2: anisotropic ice, free slip
 Model 3: anisotropy, flat bedrock surface
-Model 4: anisotropy, bumpy bedrock surface (200m)
-Model 5: anisotropy, bumpy bedrock surface (400m)
-Model 6: isotropy, bumpy bedrock surface (400m)
-Model 7: larger anisotropy based on Model 5
-Model 8: larger bumps based on Model 5
-Model 9: larger ice thickness based on Model 5
+Model 4: anisotropy, bumpy bedrock surface (400m)
+Model 5: isotropy, bumpy bedrock surface (400m)
+Model 6: larger anisotropy based on Model 4
+Model 7: anisotropy, bumpy bedrock surface (200m)
+Model 8: larger bumps based on Model 4
+Model 9: larger ice thickness based on Model 4
+Model 10: larger model size
