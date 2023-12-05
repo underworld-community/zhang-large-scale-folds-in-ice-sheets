@@ -11,4 +11,3 @@ Model 6: larger anisotropy based on Model 4
 Model 7: anisotropy, bumpy bedrock surface (200m)
 Model 8: larger bumps based on Model 4
 Model 9: larger ice thickness based on Model 4
-Model 10: larger model size
