@@ -4,7 +4,7 @@
 #   https://hub.docker.com/r/underworldcode/uwgeodynamics/tags
 
 ## Need to test if 2.16 is compatible.
-FROM underworldcode/underworld2:v2.16.0-ompi
+FROM underworldcode/underworld2:2.16.0-ompi
 
 # THE FOLLOWING WILL USUALLY NOT REQUIRE MODIFICATION.
 
