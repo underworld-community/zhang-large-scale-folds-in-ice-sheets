@@ -5,6 +5,8 @@ Large-scale stratigraphic folds have been universally observed in the ice-penetr
 
 Here we use the full-Stokes code Underworld2 to simulate ice movements in three-dimensional convergent flow, mainly concerning ice anisotropy due to crystallographic preferred orientation (CPO), vertical viscosity and density contrasts in ice layers, and bedrock topography.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/zhang-large-scale-folds-in-ice-sheets/HEAD)
+
 *************
 Model 1: isotropic ice, free-slip basal boundary
 
