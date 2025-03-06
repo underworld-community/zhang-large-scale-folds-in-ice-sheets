@@ -1,7 +1,7 @@
 # Underworld_large-scale-folds-in-ice-sheets
 The related study has been published as: Zhang, Y., Sachau, T., Franke, S., Yang, H., Li, D., Weikusat, I., & Bons, P. D. (2024). Formation mechanisms of large-scale folding in Greenland's ice sheet. Geophysical Research Letters, 51(16), e2024GL109492. https://doi.org/10.1029/2024GL109492
 
-![fig8](https://github.com/user-attachments/assets/2c83e681-4070-429b-8830-78176ad5cc5f)
+![fig8](https://github.com/user-attachments/assets/c42ef9db-7b43-40cb-902b-598d13c03c18)
 
 Airborne radio‐echo sounding (RES) data reveal internal ice layering and large‐scale folding (up to >100 m, sometimes even 1 km fold amplitude) in several regions of Greenland's ice sheet. However, there is no consensus yet on how these folds form.
 
@@ -39,3 +39,5 @@ Model 13: pre-existed folds (300 m), flat bedrock surface, anisotropy
 Model 14: pre-existed folds (300 m), flat bedrock surface, anisotropy
 
 Model 15: pre-existed folds (300 m), flat bedrock surface, isotropy
+
+Note in the scripts that the z-axis is the horizontal inflow direction, the x-axis is the horizontal outflow direction, and the y-axis is the vertical direction.
